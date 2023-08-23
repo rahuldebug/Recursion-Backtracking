@@ -2,7 +2,7 @@ package recursion.easy;
 
 public class CountingBits {
     public static void main(String[] args) {
-        int n = 10;
+        int n = 256;
         System.out.println(countBits(n));
     }
 
