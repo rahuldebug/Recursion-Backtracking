@@ -13,7 +13,7 @@ public class CountingBits {
 //        } else {
 //            return 0 + countBits(n >> 1);
 //        }
-        return (n & 1) + countBits(n >> 1);
+        return (n & 1) + countBits(n >>> 1);
     }
 
 }
