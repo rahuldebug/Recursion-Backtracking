@@ -1,4 +1,4 @@
-package recursion;
+package recursion.easy;
 
 public class StringLength {
     public static void main(String[] args) {

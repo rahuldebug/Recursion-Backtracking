@@ -1,4 +1,4 @@
-package recursion;
+package recursion.easy;
 
 public class Print {
     public void printReverse(int n){
