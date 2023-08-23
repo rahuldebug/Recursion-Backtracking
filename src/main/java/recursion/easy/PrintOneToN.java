@@ -1,6 +1,6 @@
 package recursion.easy;
 
-public class Print {
+public class PrintOneToN {
     public void printReverse(int n){
         if(n==0) return;
         System.out.println(n);
@@ -9,7 +9,7 @@ public class Print {
     }
 
     public static void main(String[] args) {
-        Print print= new Print();
+        PrintOneToN print= new PrintOneToN();
         print.printReverse(5);
     }
 }
