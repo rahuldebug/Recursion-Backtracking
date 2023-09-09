@@ -14,3 +14,4 @@ public class Fibonnaci {
     }
 }
 //memonisation will be taken later on
+//reverse fib later
